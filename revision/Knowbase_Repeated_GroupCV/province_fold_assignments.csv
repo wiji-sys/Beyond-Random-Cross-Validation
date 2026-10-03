@@ -1,0 +1,681 @@
+repeat,seed,province,fold
+1,4201,Prov. D.K.I. Jakarta,1
+1,4201,Prov. Sulawesi Selatan,1
+1,4201,Prov. Sulawesi Tenggara,1
+1,4201,Prov. Bangka Belitung,1
+1,4201,Prov. Maluku Utara,1
+1,4201,Prov. Kalimantan Timur,1
+1,4201,Prov. Kalimantan Tengah,1
+1,4201,Prov. Banten,2
+1,4201,Prov. Papua,2
+1,4201,Prov. Jawa Barat,2
+1,4201,Prov. Sumatera Selatan,2
+1,4201,Prov. Kalimantan Barat,2
+1,4201,Prov. D.I. Yogyakarta,2
+1,4201,Prov. Bengkulu,2
+1,4201,Prov. Lampung,3
+1,4201,Prov. Sulawesi Barat,3
+1,4201,Prov. Jawa Timur,3
+1,4201,Prov. Kepulauan Riau,3
+1,4201,Prov. Riau,3
+1,4201,Prov. Kalimantan Selatan,3
+1,4201,Prov. Sumatera Utara,3
+1,4201,Prov. Nusa Tenggara Barat,4
+1,4201,Prov. Nusa Tenggara Timur,4
+1,4201,Prov. Jawa Tengah,4
+1,4201,Prov. Sulawesi Tengah,4
+1,4201,Prov. Sumatera Barat,4
+1,4201,Prov. Bali,4
+1,4201,Prov. Maluku,4
+1,4201,Prov. Aceh,5
+1,4201,Prov. Sulawesi Utara,5
+1,4201,Prov. Papua Barat,5
+1,4201,Prov. Jambi,5
+1,4201,Prov. Gorontalo,5
+1,4201,Prov. Kalimantan Utara,5
+2,4202,Prov. Sulawesi Tenggara,1
+2,4202,Prov. Jawa Barat,1
+2,4202,Prov. Nusa Tenggara Barat,1
+2,4202,Prov. Kalimantan Utara,1
+2,4202,Prov. Papua,1
+2,4202,Prov. Kepulauan Riau,1
+2,4202,Prov. Gorontalo,1
+2,4202,Prov. Kalimantan Barat,2
+2,4202,Prov. Kalimantan Tengah,2
+2,4202,Prov. D.I. Yogyakarta,2
+2,4202,Prov. Sumatera Selatan,2
+2,4202,Prov. Nusa Tenggara Timur,2
+2,4202,Prov. Sumatera Utara,2
+2,4202,Prov. Sulawesi Selatan,2
+2,4202,Prov. Banten,3
+2,4202,Prov. Papua Barat,3
+2,4202,Prov. Sulawesi Tengah,3
+2,4202,Prov. Aceh,3
+2,4202,Prov. Maluku Utara,3
+2,4202,Prov. Bali,3
+2,4202,Prov. Lampung,3
+2,4202,Prov. Sumatera Barat,4
+2,4202,Prov. Jawa Tengah,4
+2,4202,Prov. Jambi,4
+2,4202,Prov. D.K.I. Jakarta,4
+2,4202,Prov. Maluku,4
+2,4202,Prov. Sulawesi Utara,4
+2,4202,Prov. Riau,4
+2,4202,Prov. Kalimantan Selatan,5
+2,4202,Prov. Sulawesi Barat,5
+2,4202,Prov. Bangka Belitung,5
+2,4202,Prov. Bengkulu,5
+2,4202,Prov. Kalimantan Timur,5
+2,4202,Prov. Jawa Timur,5
+3,4203,Prov. Sumatera Utara,1
+3,4203,Prov. Kalimantan Tengah,1
+3,4203,Prov. D.K.I. Jakarta,1
+3,4203,Prov. Nusa Tenggara Barat,1
+3,4203,Prov. Jawa Barat,1
+3,4203,Prov. Sumatera Barat,1
+3,4203,Prov. Sulawesi Utara,1
+3,4203,Prov. Bengkulu,2
+3,4203,Prov. Kalimantan Timur,2
+3,4203,Prov. Kalimantan Utara,2
+3,4203,Prov. Jawa Tengah,2
+3,4203,Prov. Aceh,2
+3,4203,Prov. Maluku,2
+3,4203,Prov. Gorontalo,2
+3,4203,Prov. Sumatera Selatan,3
+3,4203,Prov. Jambi,3
+3,4203,Prov. Banten,3
+3,4203,Prov. D.I. Yogyakarta,3
+3,4203,Prov. Bali,3
+3,4203,Prov. Riau,3
+3,4203,Prov. Sulawesi Barat,3
+3,4203,Prov. Kalimantan Selatan,4
+3,4203,Prov. Maluku Utara,4
+3,4203,Prov. Bangka Belitung,4
+3,4203,Prov. Kepulauan Riau,4
+3,4203,Prov. Jawa Timur,4
+3,4203,Prov. Sulawesi Tenggara,4
+3,4203,Prov. Papua Barat,4
+3,4203,Prov. Papua,5
+3,4203,Prov. Kalimantan Barat,5
+3,4203,Prov. Sulawesi Selatan,5
+3,4203,Prov. Nusa Tenggara Timur,5
+3,4203,Prov. Lampung,5
+3,4203,Prov. Sulawesi Tengah,5
+4,4204,Prov. Maluku Utara,1
+4,4204,Prov. Jawa Barat,1
+4,4204,Prov. Jambi,1
+4,4204,Prov. Kalimantan Utara,1
+4,4204,Prov. Gorontalo,1
+4,4204,Prov. Riau,1
+4,4204,Prov. Banten,1
+4,4204,Prov. Sumatera Utara,2
+4,4204,Prov. Papua Barat,2
+4,4204,Prov. Kepulauan Riau,2
+4,4204,Prov. Kalimantan Barat,2
+4,4204,Prov. Kalimantan Timur,2
+4,4204,Prov. Nusa Tenggara Timur,2
+4,4204,Prov. Kalimantan Selatan,2
+4,4204,Prov. Sulawesi Tenggara,3
+4,4204,Prov. D.K.I. Jakarta,3
+4,4204,Prov. D.I. Yogyakarta,3
+4,4204,Prov. Papua,3
+4,4204,Prov. Jawa Tengah,3
+4,4204,Prov. Sumatera Barat,3
+4,4204,Prov. Sulawesi Selatan,3
+4,4204,Prov. Kalimantan Tengah,4
+4,4204,Prov. Aceh,4
+4,4204,Prov. Nusa Tenggara Barat,4
+4,4204,Prov. Bengkulu,4
+4,4204,Prov. Sulawesi Tengah,4
+4,4204,Prov. Sulawesi Barat,4
+4,4204,Prov. Sulawesi Utara,4
+4,4204,Prov. Bali,5
+4,4204,Prov. Maluku,5
+4,4204,Prov. Sumatera Selatan,5
+4,4204,Prov. Jawa Timur,5
+4,4204,Prov. Lampung,5
+4,4204,Prov. Bangka Belitung,5
+5,4205,Prov. Gorontalo,1
+5,4205,Prov. Jambi,1
+5,4205,Prov. Bangka Belitung,1
+5,4205,Prov. Bali,1
+5,4205,Prov. Sumatera Selatan,1
+5,4205,Prov. Kepulauan Riau,1
+5,4205,Prov. Kalimantan Timur,1
+5,4205,Prov. Jawa Barat,2
+5,4205,Prov. Bengkulu,2
+5,4205,Prov. Papua,2
+5,4205,Prov. Nusa Tenggara Timur,2
+5,4205,Prov. Sumatera Utara,2
+5,4205,Prov. Sulawesi Selatan,2
+5,4205,Prov. Jawa Tengah,2
+5,4205,Prov. Sumatera Barat,3
+5,4205,Prov. Sulawesi Utara,3
+5,4205,Prov. Papua Barat,3
+5,4205,Prov. Jawa Timur,3
+5,4205,Prov. Kalimantan Barat,3
+5,4205,Prov. Maluku,3
+5,4205,Prov. Nusa Tenggara Barat,3
+5,4205,Prov. D.K.I. Jakarta,4
+5,4205,Prov. Kalimantan Selatan,4
+5,4205,Prov. Sulawesi Tenggara,4
+5,4205,Prov. Riau,4
+5,4205,Prov. Lampung,4
+5,4205,Prov. Maluku Utara,4
+5,4205,Prov. Sulawesi Tengah,4
+5,4205,Prov. Banten,5
+5,4205,Prov. Aceh,5
+5,4205,Prov. Kalimantan Utara,5
+5,4205,Prov. Sulawesi Barat,5
+5,4205,Prov. D.I. Yogyakarta,5
+5,4205,Prov. Kalimantan Tengah,5
+6,4206,Prov. Sumatera Barat,1
+6,4206,Prov. Kalimantan Timur,1
+6,4206,Prov. Sulawesi Selatan,1
+6,4206,Prov. Jawa Barat,1
+6,4206,Prov. Banten,1
+6,4206,Prov. D.I. Yogyakarta,1
+6,4206,Prov. Sulawesi Barat,1
+6,4206,Prov. Jambi,2
+6,4206,Prov. Kalimantan Selatan,2
+6,4206,Prov. Sumatera Selatan,2
+6,4206,Prov. D.K.I. Jakarta,2
+6,4206,Prov. Kalimantan Barat,2
+6,4206,Prov. Gorontalo,2
+6,4206,Prov. Sulawesi Tengah,2
+6,4206,Prov. Kepulauan Riau,3
+6,4206,Prov. Bangka Belitung,3
+6,4206,Prov. Sulawesi Utara,3
+6,4206,Prov. Jawa Timur,3
+6,4206,Prov. Kalimantan Utara,3
+6,4206,Prov. Jawa Tengah,3
+6,4206,Prov. Sulawesi Tenggara,3
+6,4206,Prov. Papua Barat,4
+6,4206,Prov. Bali,4
+6,4206,Prov. Papua,4
+6,4206,Prov. Riau,4
+6,4206,Prov. Lampung,4
+6,4206,Prov. Bengkulu,4
+6,4206,Prov. Kalimantan Tengah,4
+6,4206,Prov. Aceh,5
+6,4206,Prov. Maluku Utara,5
+6,4206,Prov. Maluku,5
+6,4206,Prov. Nusa Tenggara Barat,5
+6,4206,Prov. Sumatera Utara,5
+6,4206,Prov. Nusa Tenggara Timur,5
+7,4207,Prov. Bengkulu,1
+7,4207,Prov. Kalimantan Utara,1
+7,4207,Prov. Kalimantan Timur,1
+7,4207,Prov. Kalimantan Tengah,1
+7,4207,Prov. Papua,1
+7,4207,Prov. Bali,1
+7,4207,Prov. Jawa Tengah,1
+7,4207,Prov. Bangka Belitung,2
+7,4207,Prov. Sulawesi Selatan,2
+7,4207,Prov. D.K.I. Jakarta,2
+7,4207,Prov. Lampung,2
+7,4207,Prov. Nusa Tenggara Barat,2
+7,4207,Prov. Banten,2
+7,4207,Prov. D.I. Yogyakarta,2
+7,4207,Prov. Sumatera Utara,3
+7,4207,Prov. Sulawesi Utara,3
+7,4207,Prov. Papua Barat,3
+7,4207,Prov. Maluku,3
+7,4207,Prov. Jawa Barat,3
+7,4207,Prov. Maluku Utara,3
+7,4207,Prov. Gorontalo,3
+7,4207,Prov. Sumatera Barat,4
+7,4207,Prov. Sumatera Selatan,4
+7,4207,Prov. Kepulauan Riau,4
+7,4207,Prov. Sulawesi Barat,4
+7,4207,Prov. Jawa Timur,4
+7,4207,Prov. Riau,4
+7,4207,Prov. Kalimantan Barat,4
+7,4207,Prov. Sulawesi Tengah,5
+7,4207,Prov. Aceh,5
+7,4207,Prov. Sulawesi Tenggara,5
+7,4207,Prov. Nusa Tenggara Timur,5
+7,4207,Prov. Kalimantan Selatan,5
+7,4207,Prov. Jambi,5
+8,4208,Prov. Sumatera Selatan,1
+8,4208,Prov. Sulawesi Selatan,1
+8,4208,Prov. Papua Barat,1
+8,4208,Prov. Aceh,1
+8,4208,Prov. Bangka Belitung,1
+8,4208,Prov. Papua,1
+8,4208,Prov. Gorontalo,1
+8,4208,Prov. Jawa Timur,2
+8,4208,Prov. Maluku Utara,2
+8,4208,Prov. Kalimantan Utara,2
+8,4208,Prov. Riau,2
+8,4208,Prov. Kalimantan Barat,2
+8,4208,Prov. Nusa Tenggara Barat,2
+8,4208,Prov. Kalimantan Timur,2
+8,4208,Prov. Maluku,3
+8,4208,Prov. Kalimantan Tengah,3
+8,4208,Prov. Banten,3
+8,4208,Prov. Jambi,3
+8,4208,Prov. Jawa Barat,3
+8,4208,Prov. Lampung,3
+8,4208,Prov. Sulawesi Tenggara,3
+8,4208,Prov. Jawa Tengah,4
+8,4208,Prov. Sulawesi Tengah,4
+8,4208,Prov. Bali,4
+8,4208,Prov. Kalimantan Selatan,4
+8,4208,Prov. Sumatera Barat,4
+8,4208,Prov. D.K.I. Jakarta,4
+8,4208,Prov. Nusa Tenggara Timur,4
+8,4208,Prov. Sulawesi Barat,5
+8,4208,Prov. Sumatera Utara,5
+8,4208,Prov. D.I. Yogyakarta,5
+8,4208,Prov. Bengkulu,5
+8,4208,Prov. Sulawesi Utara,5
+8,4208,Prov. Kepulauan Riau,5
+9,4209,Prov. Sulawesi Tenggara,1
+9,4209,Prov. Bangka Belitung,1
+9,4209,Prov. Banten,1
+9,4209,Prov. Sulawesi Utara,1
+9,4209,Prov. Jawa Timur,1
+9,4209,Prov. Gorontalo,1
+9,4209,Prov. Bengkulu,1
+9,4209,Prov. Riau,2
+9,4209,Prov. Kalimantan Timur,2
+9,4209,Prov. Sumatera Selatan,2
+9,4209,Prov. Aceh,2
+9,4209,Prov. Jawa Barat,2
+9,4209,Prov. Maluku Utara,2
+9,4209,Prov. Sulawesi Selatan,2
+9,4209,Prov. D.K.I. Jakarta,3
+9,4209,Prov. D.I. Yogyakarta,3
+9,4209,Prov. Sulawesi Barat,3
+9,4209,Prov. Sumatera Utara,3
+9,4209,Prov. Jawa Tengah,3
+9,4209,Prov. Papua Barat,3
+9,4209,Prov. Jambi,3
+9,4209,Prov. Kepulauan Riau,4
+9,4209,Prov. Kalimantan Selatan,4
+9,4209,Prov. Nusa Tenggara Barat,4
+9,4209,Prov. Lampung,4
+9,4209,Prov. Kalimantan Barat,4
+9,4209,Prov. Kalimantan Utara,4
+9,4209,Prov. Nusa Tenggara Timur,4
+9,4209,Prov. Sumatera Barat,5
+9,4209,Prov. Sulawesi Tengah,5
+9,4209,Prov. Kalimantan Tengah,5
+9,4209,Prov. Bali,5
+9,4209,Prov. Maluku,5
+9,4209,Prov. Papua,5
+10,4210,Prov. Maluku,1
+10,4210,Prov. Riau,1
+10,4210,Prov. Maluku Utara,1
+10,4210,Prov. Jawa Timur,1
+10,4210,Prov. Sulawesi Selatan,1
+10,4210,Prov. Sumatera Utara,1
+10,4210,Prov. Banten,1
+10,4210,Prov. Lampung,2
+10,4210,Prov. Sulawesi Tenggara,2
+10,4210,Prov. Aceh,2
+10,4210,Prov. Kepulauan Riau,2
+10,4210,Prov. Nusa Tenggara Timur,2
+10,4210,Prov. Sumatera Barat,2
+10,4210,Prov. Bali,2
+10,4210,Prov. D.I. Yogyakarta,3
+10,4210,Prov. Kalimantan Timur,3
+10,4210,Prov. Sumatera Selatan,3
+10,4210,Prov. D.K.I. Jakarta,3
+10,4210,Prov. Gorontalo,3
+10,4210,Prov. Kalimantan Utara,3
+10,4210,Prov. Kalimantan Barat,3
+10,4210,Prov. Jawa Tengah,4
+10,4210,Prov. Bangka Belitung,4
+10,4210,Prov. Jambi,4
+10,4210,Prov. Jawa Barat,4
+10,4210,Prov. Nusa Tenggara Barat,4
+10,4210,Prov. Papua,4
+10,4210,Prov. Bengkulu,4
+10,4210,Prov. Kalimantan Selatan,5
+10,4210,Prov. Sulawesi Tengah,5
+10,4210,Prov. Sulawesi Barat,5
+10,4210,Prov. Sulawesi Utara,5
+10,4210,Prov. Papua Barat,5
+10,4210,Prov. Kalimantan Tengah,5
+11,4211,Prov. Kalimantan Barat,1
+11,4211,Prov. Kepulauan Riau,1
+11,4211,Prov. Jawa Barat,1
+11,4211,Prov. Kalimantan Tengah,1
+11,4211,Prov. Sumatera Barat,1
+11,4211,Prov. Aceh,1
+11,4211,Prov. Nusa Tenggara Barat,1
+11,4211,Prov. Jawa Tengah,2
+11,4211,Prov. Jambi,2
+11,4211,Prov. Sumatera Utara,2
+11,4211,Prov. Riau,2
+11,4211,Prov. Kalimantan Timur,2
+11,4211,Prov. Bali,2
+11,4211,Prov. Kalimantan Selatan,2
+11,4211,Prov. Sulawesi Barat,3
+11,4211,Prov. Sulawesi Tenggara,3
+11,4211,Prov. Bengkulu,3
+11,4211,Prov. Sulawesi Utara,3
+11,4211,Prov. Papua Barat,3
+11,4211,Prov. Lampung,3
+11,4211,Prov. Jawa Timur,3
+11,4211,Prov. Sulawesi Tengah,4
+11,4211,Prov. Banten,4
+11,4211,Prov. D.K.I. Jakarta,4
+11,4211,Prov. Sumatera Selatan,4
+11,4211,Prov. Bangka Belitung,4
+11,4211,Prov. Nusa Tenggara Timur,4
+11,4211,Prov. Gorontalo,4
+11,4211,Prov. D.I. Yogyakarta,5
+11,4211,Prov. Sulawesi Selatan,5
+11,4211,Prov. Maluku Utara,5
+11,4211,Prov. Maluku,5
+11,4211,Prov. Papua,5
+11,4211,Prov. Kalimantan Utara,5
+12,4212,Prov. Maluku,1
+12,4212,Prov. Sumatera Utara,1
+12,4212,Prov. Aceh,1
+12,4212,Prov. Sulawesi Tengah,1
+12,4212,Prov. Jawa Barat,1
+12,4212,Prov. Papua Barat,1
+12,4212,Prov. Bengkulu,1
+12,4212,Prov. Bali,2
+12,4212,Prov. Jawa Timur,2
+12,4212,Prov. Bangka Belitung,2
+12,4212,Prov. Papua,2
+12,4212,Prov. D.K.I. Jakarta,2
+12,4212,Prov. Jawa Tengah,2
+12,4212,Prov. Banten,2
+12,4212,Prov. Lampung,3
+12,4212,Prov. Sumatera Selatan,3
+12,4212,Prov. Maluku Utara,3
+12,4212,Prov. Kalimantan Utara,3
+12,4212,Prov. Kalimantan Selatan,3
+12,4212,Prov. Kalimantan Timur,3
+12,4212,Prov. Jambi,3
+12,4212,Prov. Kalimantan Barat,4
+12,4212,Prov. Kalimantan Tengah,4
+12,4212,Prov. Sulawesi Selatan,4
+12,4212,Prov. Nusa Tenggara Timur,4
+12,4212,Prov. Nusa Tenggara Barat,4
+12,4212,Prov. D.I. Yogyakarta,4
+12,4212,Prov. Kepulauan Riau,4
+12,4212,Prov. Sulawesi Barat,5
+12,4212,Prov. Sumatera Barat,5
+12,4212,Prov. Sulawesi Tenggara,5
+12,4212,Prov. Riau,5
+12,4212,Prov. Sulawesi Utara,5
+12,4212,Prov. Gorontalo,5
+13,4213,Prov. Kalimantan Selatan,1
+13,4213,Prov. D.I. Yogyakarta,1
+13,4213,Prov. Sumatera Selatan,1
+13,4213,Prov. Jawa Timur,1
+13,4213,Prov. Banten,1
+13,4213,Prov. Sulawesi Utara,1
+13,4213,Prov. Kepulauan Riau,1
+13,4213,Prov. Bengkulu,2
+13,4213,Prov. Nusa Tenggara Barat,2
+13,4213,Prov. Aceh,2
+13,4213,Prov. Bangka Belitung,2
+13,4213,Prov. Bali,2
+13,4213,Prov. Jambi,2
+13,4213,Prov. Nusa Tenggara Timur,2
+13,4213,Prov. Jawa Barat,3
+13,4213,Prov. Sulawesi Tenggara,3
+13,4213,Prov. Gorontalo,3
+13,4213,Prov. Jawa Tengah,3
+13,4213,Prov. Papua,3
+13,4213,Prov. Papua Barat,3
+13,4213,Prov. Kalimantan Tengah,3
+13,4213,Prov. Kalimantan Barat,4
+13,4213,Prov. Sulawesi Selatan,4
+13,4213,Prov. Sulawesi Barat,4
+13,4213,Prov. Kalimantan Timur,4
+13,4213,Prov. Riau,4
+13,4213,Prov. Sumatera Utara,4
+13,4213,Prov. D.K.I. Jakarta,4
+13,4213,Prov. Sulawesi Tengah,5
+13,4213,Prov. Maluku Utara,5
+13,4213,Prov. Maluku,5
+13,4213,Prov. Kalimantan Utara,5
+13,4213,Prov. Sumatera Barat,5
+13,4213,Prov. Lampung,5
+14,4214,Prov. Lampung,1
+14,4214,Prov. Kalimantan Utara,1
+14,4214,Prov. Papua,1
+14,4214,Prov. Kalimantan Timur,1
+14,4214,Prov. Riau,1
+14,4214,Prov. D.I. Yogyakarta,1
+14,4214,Prov. Nusa Tenggara Barat,1
+14,4214,Prov. Maluku Utara,2
+14,4214,Prov. Kalimantan Selatan,2
+14,4214,Prov. Gorontalo,2
+14,4214,Prov. Papua Barat,2
+14,4214,Prov. Aceh,2
+14,4214,Prov. Bangka Belitung,2
+14,4214,Prov. Jambi,2
+14,4214,Prov. Nusa Tenggara Timur,3
+14,4214,Prov. Bengkulu,3
+14,4214,Prov. Banten,3
+14,4214,Prov. Jawa Timur,3
+14,4214,Prov. Kalimantan Barat,3
+14,4214,Prov. Jawa Tengah,3
+14,4214,Prov. Sulawesi Selatan,3
+14,4214,Prov. Sulawesi Utara,4
+14,4214,Prov. Sumatera Selatan,4
+14,4214,Prov. Sulawesi Tenggara,4
+14,4214,Prov. Bali,4
+14,4214,Prov. D.K.I. Jakarta,4
+14,4214,Prov. Kepulauan Riau,4
+14,4214,Prov. Sulawesi Barat,4
+14,4214,Prov. Kalimantan Tengah,5
+14,4214,Prov. Maluku,5
+14,4214,Prov. Sumatera Barat,5
+14,4214,Prov. Sulawesi Tengah,5
+14,4214,Prov. Jawa Barat,5
+14,4214,Prov. Sumatera Utara,5
+15,4215,Prov. Aceh,1
+15,4215,Prov. Nusa Tenggara Barat,1
+15,4215,Prov. Lampung,1
+15,4215,Prov. Gorontalo,1
+15,4215,Prov. Sulawesi Utara,1
+15,4215,Prov. Kalimantan Timur,1
+15,4215,Prov. Sumatera Utara,1
+15,4215,Prov. Bengkulu,2
+15,4215,Prov. Jawa Barat,2
+15,4215,Prov. Kepulauan Riau,2
+15,4215,Prov. Riau,2
+15,4215,Prov. Papua Barat,2
+15,4215,Prov. Kalimantan Tengah,2
+15,4215,Prov. Sulawesi Tengah,2
+15,4215,Prov. Bali,3
+15,4215,Prov. Maluku,3
+15,4215,Prov. Sumatera Selatan,3
+15,4215,Prov. Jawa Tengah,3
+15,4215,Prov. Kalimantan Barat,3
+15,4215,Prov. Nusa Tenggara Timur,3
+15,4215,Prov. Kalimantan Utara,3
+15,4215,Prov. Papua,4
+15,4215,Prov. D.I. Yogyakarta,4
+15,4215,Prov. Jambi,4
+15,4215,Prov. Banten,4
+15,4215,Prov. Sulawesi Barat,4
+15,4215,Prov. D.K.I. Jakarta,4
+15,4215,Prov. Sumatera Barat,4
+15,4215,Prov. Jawa Timur,5
+15,4215,Prov. Kalimantan Selatan,5
+15,4215,Prov. Sulawesi Selatan,5
+15,4215,Prov. Sulawesi Tenggara,5
+15,4215,Prov. Maluku Utara,5
+15,4215,Prov. Bangka Belitung,5
+16,4216,Prov. Bangka Belitung,1
+16,4216,Prov. Jawa Timur,1
+16,4216,Prov. Kalimantan Tengah,1
+16,4216,Prov. Lampung,1
+16,4216,Prov. Bali,1
+16,4216,Prov. Riau,1
+16,4216,Prov. Jambi,1
+16,4216,Prov. Kalimantan Timur,2
+16,4216,Prov. Jawa Barat,2
+16,4216,Prov. Sulawesi Tengah,2
+16,4216,Prov. Sumatera Barat,2
+16,4216,Prov. Papua,2
+16,4216,Prov. Sulawesi Barat,2
+16,4216,Prov. Sulawesi Utara,2
+16,4216,Prov. Kepulauan Riau,3
+16,4216,Prov. Gorontalo,3
+16,4216,Prov. D.K.I. Jakarta,3
+16,4216,Prov. Sumatera Selatan,3
+16,4216,Prov. Maluku Utara,3
+16,4216,Prov. Sumatera Utara,3
+16,4216,Prov. Bengkulu,3
+16,4216,Prov. Aceh,4
+16,4216,Prov. Kalimantan Barat,4
+16,4216,Prov. Papua Barat,4
+16,4216,Prov. Nusa Tenggara Timur,4
+16,4216,Prov. Kalimantan Selatan,4
+16,4216,Prov. Maluku,4
+16,4216,Prov. D.I. Yogyakarta,4
+16,4216,Prov. Banten,5
+16,4216,Prov. Sulawesi Selatan,5
+16,4216,Prov. Sulawesi Tenggara,5
+16,4216,Prov. Jawa Tengah,5
+16,4216,Prov. Nusa Tenggara Barat,5
+16,4216,Prov. Kalimantan Utara,5
+17,4217,Prov. Maluku Utara,1
+17,4217,Prov. Sulawesi Selatan,1
+17,4217,Prov. Papua Barat,1
+17,4217,Prov. Nusa Tenggara Timur,1
+17,4217,Prov. Sulawesi Tenggara,1
+17,4217,Prov. Kepulauan Riau,1
+17,4217,Prov. Kalimantan Barat,1
+17,4217,Prov. Sumatera Barat,2
+17,4217,Prov. Bali,2
+17,4217,Prov. Jambi,2
+17,4217,Prov. Jawa Tengah,2
+17,4217,Prov. Kalimantan Tengah,2
+17,4217,Prov. Gorontalo,2
+17,4217,Prov. Bengkulu,2
+17,4217,Prov. Kalimantan Timur,3
+17,4217,Prov. Maluku,3
+17,4217,Prov. Lampung,3
+17,4217,Prov. Banten,3
+17,4217,Prov. Jawa Timur,3
+17,4217,Prov. D.I. Yogyakarta,3
+17,4217,Prov. Sulawesi Barat,3
+17,4217,Prov. Aceh,4
+17,4217,Prov. Bangka Belitung,4
+17,4217,Prov. D.K.I. Jakarta,4
+17,4217,Prov. Riau,4
+17,4217,Prov. Sulawesi Tengah,4
+17,4217,Prov. Jawa Barat,4
+17,4217,Prov. Nusa Tenggara Barat,4
+17,4217,Prov. Sulawesi Utara,5
+17,4217,Prov. Papua,5
+17,4217,Prov. Sumatera Selatan,5
+17,4217,Prov. Kalimantan Utara,5
+17,4217,Prov. Kalimantan Selatan,5
+17,4217,Prov. Sumatera Utara,5
+18,4218,Prov. Jawa Barat,1
+18,4218,Prov. Maluku,1
+18,4218,Prov. Kepulauan Riau,1
+18,4218,Prov. Banten,1
+18,4218,Prov. Gorontalo,1
+18,4218,Prov. Kalimantan Timur,1
+18,4218,Prov. Kalimantan Tengah,1
+18,4218,Prov. Sulawesi Barat,2
+18,4218,Prov. Sulawesi Utara,2
+18,4218,Prov. Sumatera Utara,2
+18,4218,Prov. Bengkulu,2
+18,4218,Prov. Sulawesi Tenggara,2
+18,4218,Prov. Jawa Tengah,2
+18,4218,Prov. Aceh,2
+18,4218,Prov. Bangka Belitung,3
+18,4218,Prov. Nusa Tenggara Timur,3
+18,4218,Prov. Jambi,3
+18,4218,Prov. Sulawesi Tengah,3
+18,4218,Prov. D.K.I. Jakarta,3
+18,4218,Prov. Riau,3
+18,4218,Prov. D.I. Yogyakarta,3
+18,4218,Prov. Kalimantan Utara,4
+18,4218,Prov. Sumatera Barat,4
+18,4218,Prov. Maluku Utara,4
+18,4218,Prov. Bali,4
+18,4218,Prov. Lampung,4
+18,4218,Prov. Sumatera Selatan,4
+18,4218,Prov. Jawa Timur,4
+18,4218,Prov. Kalimantan Barat,5
+18,4218,Prov. Nusa Tenggara Barat,5
+18,4218,Prov. Sulawesi Selatan,5
+18,4218,Prov. Papua,5
+18,4218,Prov. Papua Barat,5
+18,4218,Prov. Kalimantan Selatan,5
+19,4219,Prov. Sulawesi Barat,1
+19,4219,Prov. Sulawesi Tengah,1
+19,4219,Prov. Maluku,1
+19,4219,Prov. Kalimantan Timur,1
+19,4219,Prov. Lampung,1
+19,4219,Prov. Banten,1
+19,4219,Prov. Gorontalo,1
+19,4219,Prov. Bangka Belitung,2
+19,4219,Prov. Aceh,2
+19,4219,Prov. Jambi,2
+19,4219,Prov. Kalimantan Utara,2
+19,4219,Prov. Jawa Barat,2
+19,4219,Prov. Kalimantan Selatan,2
+19,4219,Prov. Kalimantan Barat,2
+19,4219,Prov. Jawa Timur,3
+19,4219,Prov. Maluku Utara,3
+19,4219,Prov. Bali,3
+19,4219,Prov. Sulawesi Selatan,3
+19,4219,Prov. Sumatera Selatan,3
+19,4219,Prov. Riau,3
+19,4219,Prov. Kalimantan Tengah,3
+19,4219,Prov. Sumatera Barat,4
+19,4219,Prov. Bengkulu,4
+19,4219,Prov. Sulawesi Utara,4
+19,4219,Prov. Nusa Tenggara Barat,4
+19,4219,Prov. D.I. Yogyakarta,4
+19,4219,Prov. D.K.I. Jakarta,4
+19,4219,Prov. Nusa Tenggara Timur,4
+19,4219,Prov. Kepulauan Riau,5
+19,4219,Prov. Sulawesi Tenggara,5
+19,4219,Prov. Papua Barat,5
+19,4219,Prov. Papua,5
+19,4219,Prov. Sumatera Utara,5
+19,4219,Prov. Jawa Tengah,5
+20,4220,Prov. Kalimantan Utara,1
+20,4220,Prov. Nusa Tenggara Barat,1
+20,4220,Prov. Lampung,1
+20,4220,Prov. Bali,1
+20,4220,Prov. Maluku,1
+20,4220,Prov. Maluku Utara,1
+20,4220,Prov. Bangka Belitung,1
+20,4220,Prov. Jawa Tengah,2
+20,4220,Prov. Kalimantan Timur,2
+20,4220,Prov. Jawa Barat,2
+20,4220,Prov. Kalimantan Barat,2
+20,4220,Prov. Nusa Tenggara Timur,2
+20,4220,Prov. Banten,2
+20,4220,Prov. Riau,2
+20,4220,Prov. Sumatera Barat,3
+20,4220,Prov. Jawa Timur,3
+20,4220,Prov. Gorontalo,3
+20,4220,Prov. Jambi,3
+20,4220,Prov. Papua,3
+20,4220,Prov. Sulawesi Barat,3
+20,4220,Prov. Kalimantan Selatan,3
+20,4220,Prov. Aceh,4
+20,4220,Prov. Sulawesi Selatan,4
+20,4220,Prov. Sulawesi Tengah,4
+20,4220,Prov. D.I. Yogyakarta,4
+20,4220,Prov. Sumatera Selatan,4
+20,4220,Prov. D.K.I. Jakarta,4
+20,4220,Prov. Bengkulu,4
+20,4220,Prov. Papua Barat,5
+20,4220,Prov. Kepulauan Riau,5
+20,4220,Prov. Sulawesi Tenggara,5
+20,4220,Prov. Kalimantan Tengah,5
+20,4220,Prov. Sumatera Utara,5
+20,4220,Prov. Sulawesi Utara,5

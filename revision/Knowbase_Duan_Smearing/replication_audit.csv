@@ -1,0 +1,5 @@
+scheme,model,rmsle_difference
+GroupKFold_Province,RandomForestLogCount,5.551115123125783e-17
+GroupKFold_Province,ExtraTreesLogCount,2.7755575615628914e-17
+RandomKFold,RandomForestLogCount,0.0
+RandomKFold,ExtraTreesLogCount,8.326672684688674e-17
