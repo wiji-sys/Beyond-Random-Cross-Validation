@@ -1,0 +1,6 @@
+reduced_model,full_model,lr_statistic,df_difference,p_value,significant_0_05
+M0_offset_only,M1_gender_level,3280.956210631215,11,0.0,True
+M1_gender_level,M2_student_input,269.0569738726772,2,3.7585511485519674e-59,True
+M2_student_input,M3_institutional_capacity,10.284075904055499,2,0.005845764178667657,True
+M3_institutional_capacity,M4_faculty_quality_primary,4.0150199093841366,2,0.13432272827117922,False
+M4_faculty_quality_primary,M5_gender_level_interaction,13.999175470184127,10,0.17302922056218087,False

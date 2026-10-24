@@ -1,0 +1,14 @@
+{
+  "data_source": "Workbook gabungan — fallback",
+  "national_total_graduates_dataset_a": 2547714,
+  "national_total_graduates_dataset_b": 2547717,
+  "female_share_graduates": 0.6493715542639401,
+  "stem_total_graduates": 703960,
+  "stem_share_graduates": 0.27631012392663706,
+  "province_gini_graduates": 0.5721137597446644,
+  "district_gini_graduates": 0.822802177960055,
+  "largest_province_by_graduates": "Prov. Jawa Timur",
+  "largest_province_graduates": 384823,
+  "district_outlier_count": 6,
+  "random_seed": 42
+}

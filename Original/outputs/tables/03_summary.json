@@ -1,0 +1,14 @@
+{
+  "best_model": "TweedieRate",
+  "groupcv_province_rmsle": 0.22552658358543873,
+  "groupcv_province_rmsle_ci_lower": 0.1706117143981494,
+  "groupcv_province_rmsle_ci_upper": 0.2681931831641708,
+  "randomcv_province_rmsle": 0.22257033561229497,
+  "rmsle_generalization_gap": 0.002956247973143755,
+  "rmsle_group_over_random_ratio": 1.0132823090058747,
+  "groupcv_province_mae": 11260.1767989493,
+  "groupcv_log_r2": 0.9643006641191687,
+  "groupcv_calibration_ratio": 1.0347213067428125,
+  "models_compared": 7,
+  "n_provinces": 34
+}

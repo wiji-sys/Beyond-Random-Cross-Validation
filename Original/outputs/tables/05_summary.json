@@ -1,0 +1,22 @@
+{
+  "gender_specifications": 15,
+  "gender_bootstrap_successes": 100,
+  "gender_loo_provinces": 34,
+  "female_primary_irr": 1.0942299978912815,
+  "female_specification_positive_pct": 100.0,
+  "female_loo_positive_pct": 100.0,
+  "female_bootstrap_ci_lower": 1.0672380292179593,
+  "female_bootstrap_ci_upper": 1.1205351118314146,
+  "active_primary_irr": 1.1942229101563022,
+  "active_specification_positive_pct": 100.0,
+  "active_loo_positive_pct": 100.0,
+  "predictive_best_mean_rank_model": "TweedieRate",
+  "predictive_best_model_wins": 3,
+  "predictive_scenarios": 5,
+  "stem_entry_primary_or": 3.082030558000414,
+  "stem_entry_specification_positive_pct": 100.0,
+  "stem_entry_loo_positive_pct": 100.0,
+  "stem_flow_primary_mean_capacity_irr": 0.6977420078723675,
+  "stem_flow_specification_negative_pct": 100.0,
+  "stem_flow_loo_negative_pct": 100.0
+}

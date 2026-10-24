@@ -1,0 +1,22 @@
+{
+  "data_source": "Workbook gabungan — fallback",
+  "n_model_rows": 2567,
+  "n_provinces": 34,
+  "n_districts": 396,
+  "primary_model": "M4_faculty_quality_primary",
+  "primary_aic": 28766.63223833066,
+  "primary_alpha": 0.20768911903822204,
+  "poisson_pearson_dispersion": 186.50114958286835,
+  "female_vs_male_irr": 1.094229997887582,
+  "female_vs_male_ci_lower": 1.0660030835175174,
+  "female_vs_male_ci_upper": 1.1232043385148258,
+  "female_vs_male_p": 1.4447809667134931e-11,
+  "active_share_irr_per_sd": 1.194222910164137,
+  "active_share_ci_lower": 1.1359581777874281,
+  "active_share_ci_upper": 1.255476114392461,
+  "active_share_p": 3.5247575882132662e-12,
+  "interaction_m4_m5_p": 0.17302922056218087,
+  "primary_rmsle_in_sample": 0.528684730026881,
+  "primary_predicted_to_observed_ratio": 1.0867932698130187,
+  "residual_abs_gt_3_pct": 1.753019088430074
+}

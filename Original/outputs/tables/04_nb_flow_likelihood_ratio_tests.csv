@@ -1,0 +1,4 @@
+reduced_model,full_model,lr_statistic,df_difference,p_value,significant_0_05
+F1_stem_level,F2_accreditation,43.77666131821752,4,7.138926253037183e-09,True
+F2_accreditation,F3_regional_capacity,13.618612846796168,3,0.003473048222359309,True
+F3_regional_capacity,F4_stem_interactions,21.853087411996967,2,1.7974729448783407e-05,True

@@ -1,0 +1,20 @@
+{
+  "data_source": "Workbook gabungan — fallback",
+  "rows": 2017,
+  "national_stem_graduates": 703960,
+  "national_stem_share": 0.27631012392663706,
+  "paired_complete_rows": 665,
+  "binomial_model_rows": 606,
+  "binomial_pearson_dispersion": 171.34426888471893,
+  "stem_new_share_odds_ratio_per_sd": 3.082030558000412,
+  "stem_new_share_or_ci_lower": 2.408332143244962,
+  "stem_new_share_or_ci_upper": 3.944187012199072,
+  "flow_model_rows": 1698,
+  "flow_poisson_dispersion": 1700.6816085880735,
+  "flow_nb_alpha": 0.7799115941427218,
+  "stem_vs_nonstem_flow_irr": 0.6977420079433114,
+  "stem_vs_nonstem_flow_ci_lower": 0.6270674004369939,
+  "stem_vs_nonstem_flow_ci_upper": 0.7763821071060142,
+  "best_binomial_model": "B3_regional_capacity",
+  "best_flow_model": "F4_stem_interactions"
+}
