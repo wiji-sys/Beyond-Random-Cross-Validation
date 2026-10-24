@@ -1,2 +1,0 @@
-model,n,mae,rmse,rmsle,mean_poisson_deviance,observed_total,predicted_total,predicted_to_observed_ratio,alpha
-F4_stem_interactions,1698,1496.0622987085678,7146.58822735185,1.12587279417811,1931.7982686297626,2414956.0,4076990.3560633655,1.6882255229757253,0.7799115941427218

@@ -1,8 +1,0 @@
-check,status,evidence
-GroupCV tanpa overlap provinsi,PASS,0 overlap pada seluruh fold
-OOF lengkap,PASS,"35,938/35,938 rows"
-Seluruh model menghasilkan prediksi,PASS,7/7 models
-Bootstrap selesai,PASS,500 iterations
-Model terbaik tersimpan,PASS,03_best_model_tweedierate.joblib
-Tabel lengkap,PASS,16/16
-Figur lengkap,PASS,10/9

@@ -1,4 +1,0 @@
-reduced_model,full_model,lr_statistic,df_difference,p_value,significant_0_05
-B0_level,B1_entry_composition,97480.31973016704,1,0.0,True
-B1_entry_composition,B2_accreditation,3799.5600548285583,2,0.0,True
-B2_accreditation,B3_regional_capacity,1498.7120148203976,4,0.0,True

@@ -1,2 +1,0 @@
-model,mae,rmse,rmsle,mean_poisson_deviance,mean_nb_deviance,observed_total,predicted_total,predicted_to_observed_ratio,mcfadden_pseudo_r2
-M4_faculty_quality_primary,254.72690925559831,1640.8504259563033,0.528684730026881,136.84333040015088,1.0686924458964389,2544731.0,2765596.524284553,1.0867932698130187,0.11037433512503425

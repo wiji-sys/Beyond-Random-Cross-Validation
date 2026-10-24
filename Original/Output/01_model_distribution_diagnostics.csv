@@ -1,3 +1,0 @@
-analysis_level,n,mean_target,variance_target,variance_to_mean,skewness,zero_count,recommended_primary_model,validation_group
-Strata gender–jenjang,2624,970.9275914634146,11009165.422128242,11338.811996819308,8.23875710027781,0,Negative Binomial dengan offset log(jumlah_terdaftar),provinsi_pt
-Kabupaten/kota,414,6153.898550724638,289676555.4908938,47072.039472731245,4.8457797829006495,0,Negative Binomial; log1p target untuk ML pembanding,provinsi_pt

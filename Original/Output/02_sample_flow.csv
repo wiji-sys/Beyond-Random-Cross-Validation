@@ -1,4 +1,0 @@
-stage,n_rows,excluded_from_previous,retained_pct_of_initial
-Dataset A awal,2624,0,100.0
-Complete-case seluruh prediktor utama dan sensitivitas,2567,57,97.82774390243902
-Exposure positif dan outcome nonnegatif,2567,0,97.82774390243902

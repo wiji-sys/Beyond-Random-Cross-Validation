@@ -1,3 +1,0 @@
-dataset,rows,provinces,districts,total_graduates,denominator_available_n,denominator_positive_n,flag_match_terdaftar_match_pct,flag_match_aktif_match_pct,flag_match_pt_match_pct,flag_match_dosen_match_pct,flag_match_mahasiswa_baru_match_pct,flag_match_dosen_doktor_match_pct
-AD_Gender_Jenjang,2624,34,414,2547714,2611,2611,99.5045731707317,99.35213414634147,98.58993902439023,99.73323170731707,,
-AD_STEM_Jenjang,2017,34,414,2547717,1960,1960,,,99.00842835894893,99.80168567178978,97.17402082300445,88.24987605354487

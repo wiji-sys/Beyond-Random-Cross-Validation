@@ -1,2 +1,0 @@
-n,pearson_mean,pearson_std,pearson_min,pearson_max,abs_residual_gt_2_n,abs_residual_gt_2_pct,abs_residual_gt_3_n,abs_residual_gt_3_pct,spearman_fitted_abs_residual
-2567,0.015191845807822693,1.369523846944503,-2.166646244655319,28.764069812751767,98,3.8176860148032725,45,1.753019088430074,-0.22809194711672334
