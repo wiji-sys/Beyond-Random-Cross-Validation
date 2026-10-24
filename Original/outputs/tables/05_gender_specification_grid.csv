@@ -1,0 +1,16 @@
+specification,n_rows,log_likelihood,aic,bic,df_model,converged,covariance,alpha,sample_rule,offset_column,estimand,comparable_estimand
+G00_primary,2567,-14364.316119165389,28766.632238330778,28877.79160876733,17.0,True,cluster,0.20768911903818638,complete-case Notebook 02,jumlah_terdaftar,per registered-student stock,True
+G_denominator_ge_25,2373,-13835.789303228521,27709.578606457042,27819.244901329323,17.0,True,cluster,0.2048934844401675,jumlah_terdaftar >= 25,jumlah_terdaftar,per registered-student stock,True
+G_denominator_ge_50,2198,-13245.143491373998,26528.286982747995,26636.497742312302,17.0,True,cluster,0.1998052246901984,jumlah_terdaftar >= 50,jumlah_terdaftar,per registered-student stock,True
+G_denominator_ge_100,1980,-12324.041758582123,24686.083517164247,24792.30970751433,17.0,True,cluster,0.18127644799688666,jumlah_terdaftar >= 100,jumlah_terdaftar,per registered-student stock,True
+G_denominator_ge_250,1591,-10416.40772810022,20870.81545620044,20972.885698738857,17.0,True,cluster,0.14799981452816946,jumlah_terdaftar >= 250,jumlah_terdaftar,per registered-student stock,True
+G_denominator_ge_500,1275,-8675.661786819648,17383.323573639296,17465.734796960776,14.0,True,cluster,0.11534355570123724,jumlah_terdaftar >= 500,jumlah_terdaftar,per registered-student stock,True
+G_exclude_top_1pct_outcome,2541,-14089.279575957664,28216.559151915328,28327.52509859841,17.0,True,cluster,0.20898621535395354,exclude outcome above percentile 99,jumlah_terdaftar,per registered-student stock,True
+G_winsorize_predictors_1_99,2567,-14362.815760204718,28763.631520409435,28874.790890845987,17.0,True,cluster,0.20731371447479183,winsorize continuous predictors at 1st/99th percentile,jumlah_terdaftar,per registered-student stock,True
+G_replace_professor_with_senior,2567,-14363.191746806497,28764.383493612993,28875.542864049545,17.0,True,cluster,0.20747232889485265,senior faculty share replaces professor share,jumlah_terdaftar,per registered-student stock,True
+G_without_faculty_block,2567,-14366.323629120072,28766.647258240144,28866.105642314953,15.0,True,cluster,0.20818009785420444,faculty quality block removed,jumlah_terdaftar,per registered-student stock,True
+G_quadratic_student_participation,2567,-14364.182142773245,28770.36428554649,28893.224642344783,19.0,True,cluster,0.20768336043205074,quadratic active and MBKM shares,jumlah_terdaftar,per registered-student stock,True
+G_province_fixed_effects,2567,-14265.791218571248,28635.582437142497,28939.808082547795,50.0,True,cluster,0.19019658680823412,province fixed effects,jumlah_terdaftar,within-province conditional association,True
+G_cluster_district,2567,-14364.316119165389,28766.632238330778,28877.79160876733,17.0,True,cluster,0.20768911903818638,district-cluster covariance,jumlah_terdaftar,per registered-student stock,True
+G_HC1_covariance,2567,-14364.316119165389,28766.632238330778,28877.79160876733,17.0,True,HC1,0.20768911903818638,HC1 covariance,jumlah_terdaftar,per registered-student stock,True
+G_active_student_offset,2567,-14425.902993164767,28887.805986329535,28993.114863585215,16.0,True,cluster,0.2189650033158925,active-student stock used as exposure,jumlah_aktif_total,per active-student stock,False

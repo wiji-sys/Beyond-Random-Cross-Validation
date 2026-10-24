@@ -1,0 +1,10 @@
+check,status,evidence
+Notebook 02–04 prerequisites complete,PASS,7/7 resources
+Gender specification grid converged,PASS,15/15 specifications
+Gender leave-one-province-out complete,PASS,34 provinces
+Province cluster bootstrap adequate,PASS,100/100 successful replicates
+Predictive scenarios complete,PASS,5 scenarios
+STEM binomial specifications converged,PASS,11/11 specifications
+STEM flow specifications converged,PASS,12/12 specifications
+Tables complete,PASS,25/25 tables
+Figures complete,PASS,9/9 figures

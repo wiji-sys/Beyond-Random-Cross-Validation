@@ -1,0 +1,6 @@
+conclusion,expected_direction,specification_direction_pct,loo_direction_pct,uncertainty_support_pct,robustness_grade
+Female strata have higher graduate output intensity than male strata,ratio > 1,100.0,100.0,100.0,Strong
+Active-student share is positively associated with graduate output intensity,ratio > 1,100.0,100.0,100.0,Strong
+STEM entry composition predicts STEM graduate composition,odds ratio > 1,100.0,100.0,100.0,Strong
+STEM graduate-entry flow intensity is lower than non-STEM at mean capacity,IRR < 1,100.0,100.0,100.0,Strong
+One predictive model dominates all province-volume scenarios,same model wins every scenario,60.0,,100.0,Sensitive

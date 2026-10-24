@@ -1,0 +1,8 @@
+resource,path,exists,size_bytes
+readiness_02,outputs/tables/02_readiness_checklist.csv,True,430
+gender_model_data,outputs/tables/02_modeling_dataset.csv,True,1086494
+readiness_03,outputs/tables/03_readiness_checklist.csv,True,325
+oof_predictions,outputs/tables/03_oof_predictions.csv,True,4525633
+readiness_04,outputs/tables/04_readiness_checklist.csv,True,375
+stem_paired_data,outputs/tables/04_paired_modeling_dataset.csv,True,285782
+stem_flow_data,outputs/tables/04_flow_modeling_dataset.csv,True,779817
