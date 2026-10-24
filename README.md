@@ -10,7 +10,7 @@ Package assembled: 3 October 2026
 - MANIFEST_SHA256.csv: paths, sizes, and SHA-256 checksums for included files.
 
 ## Source provenance
-Original dataset URLs, release metadata, and source hashes are recorded in the Sumber_Data worksheet of original/pt_education_research_project/data/processed/Dataset_Gabungan_Kemdiktisaintek_2025.xlsx. The project retains 34 source-defined province categories, including legacy Papua and Papua Barat assignments. See the revised manuscript for geographic scope.
+Original dataset URLs, release metadata, and source hashes are recorded in the Sumber_Data worksheet of original/data/Dataset_Gabungan_Kemdiktisaintek_2025.xlsx. The project retains 34 source-defined province categories, including legacy Papua and Papua Barat assignments. See the revised manuscript for geographic scope.
 
 ## Interpretation and versioning
 The original results are preserved as the original analysis record. Statements there identifying Tweedie as best refer to the original fixed grouped partition, not all alternative partitions. The additional grouped analysis found Extra Trees and Poisson each ranked first in 9/20 repetitions, Tweedie in 1/20, and histogram gradient boosting in 1/20. Original Notebook 06 does not incorporate these revision analyses. Use the revision outputs together with the original outputs when assessing the revised manuscript.
