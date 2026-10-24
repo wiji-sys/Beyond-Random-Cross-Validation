@@ -1,0 +1,28 @@
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:           ['y1', 'y2']   No. Observations:                  606
+Model:                            GLM   Df Residuals:                      593
+Model Family:                Binomial   Df Model:                           12
+Link Function:                  Logit   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -47290.
+Date:                Tue, 28 Jul 2026   Deviance:                       90462.
+Time:                        07:56:55   Pearson chi2:                 1.02e+05
+No. Iterations:                     6   Pseudo R-squ. (CS):              1.000
+Covariance Type:              cluster                                         
+==========================================================================================================================
+                                                             coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------------------------
+Intercept                                                 -0.2745      0.063     -4.370      0.000      -0.398      -0.151
+C(nm_jenj_didik, Treatment(reference="S1"))[T.D3]          0.2979      0.170      1.748      0.080      -0.036       0.632
+C(nm_jenj_didik, Treatment(reference="S1"))[T.D4]          0.3109      0.102      3.033      0.002       0.110       0.512
+C(nm_jenj_didik, Treatment(reference="S1"))[T.Profesi]    -3.2473      0.191    -16.990      0.000      -3.622      -2.873
+C(nm_jenj_didik, Treatment(reference="S1"))[T.S2]         -0.2234      0.088     -2.532      0.011      -0.396      -0.050
+C(nm_jenj_didik, Treatment(reference="S1"))[T.S3]         -0.1742      0.084     -2.070      0.038      -0.339      -0.009
+z_stem_new_share                                           1.1256      0.126      8.944      0.000       0.879       1.372
+z_stem_new_prodi_high_share                                0.1380      0.066      2.091      0.037       0.009       0.267
+z_pt_high_share                                            0.0007      0.028      0.025      0.980      -0.055       0.056
+z_doctor_stem_share                                        0.0993      0.054      1.841      0.066      -0.006       0.205
+z_log_doctor_total                                        -0.0367      0.058     -0.637      0.524      -0.150       0.076
+z_prof_share                                              -0.0547      0.049     -1.107      0.268      -0.152       0.042
+z_cert_share                                              -0.0225      0.036     -0.618      0.536      -0.094       0.049
+==========================================================================================================================

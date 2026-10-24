@@ -1,0 +1,2 @@
+model,n,mae_unweighted_share,rmse_unweighted_share,weighted_brier_share,pearson_dispersion
+B3_regional_capacity,606,0.0785767872365195,0.12436990641525933,0.005596361188922601,171.34426888471893

@@ -1,0 +1,33 @@
+                     NegativeBinomial Regression Results                      
+==============================================================================
+Dep. Variable:         jumlah_lulusan   No. Observations:                 1698
+Model:               NegativeBinomial   Df Residuals:                     1679
+Method:                           MLE   Df Model:                           18
+Date:                Tue, 28 Jul 2026   Pseudo R-squ.:                  0.1016
+Time:                        07:56:55   Log-Likelihood:                -11705.
+converged:                       True   LL-Null:                       -13029.
+Covariance Type:              cluster   LLR p-value:                     0.000
+=============================================================================================================================================
+                                                                                coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                                     0.0269      0.036      0.757      0.449      -0.043       0.097
+C(a_stem, Treatment(reference="NON STEM"))[T.STEM]                           -0.3599      0.054     -6.605      0.000      -0.467      -0.253
+C(nm_jenj_didik, Treatment(reference="S1"))[T.D2]                             0.7167      0.243      2.950      0.003       0.240       1.193
+C(nm_jenj_didik, Treatment(reference="S1"))[T.D3]                             0.4445      0.043     10.283      0.000       0.360       0.529
+C(nm_jenj_didik, Treatment(reference="S1"))[T.D4]                             0.1214      0.078      1.549      0.121      -0.032       0.275
+C(nm_jenj_didik, Treatment(reference="S1"))[T.Profesi]                        3.0922      0.221     13.978      0.000       2.659       3.526
+C(nm_jenj_didik, Treatment(reference="S1"))[T.S2]                             0.1268      0.104      1.223      0.221      -0.076       0.330
+C(nm_jenj_didik, Treatment(reference="S1"))[T.S2 Terapan]                     0.5443      0.178      3.066      0.002       0.196       0.892
+C(nm_jenj_didik, Treatment(reference="S1"))[T.S3]                            -0.3421      0.128     -2.671      0.008      -0.593      -0.091
+C(nm_jenj_didik, Treatment(reference="S1"))[T.Sp-1]                          -0.0707      0.146     -0.486      0.627      -0.356       0.215
+z_new_pt_high_share                                                           0.1914      0.126      1.525      0.127      -0.055       0.437
+z_new_prodi_high_share                                                       -0.2076      0.081     -2.566      0.010      -0.366      -0.049
+C(a_stem, Treatment(reference="NON STEM"))[T.STEM]:z_new_prodi_high_share     0.2547      0.067      3.810      0.000       0.124       0.386
+z_log_pt                                                                     -0.1353      0.051     -2.668      0.008      -0.235      -0.036
+z_pt_high_share                                                              -0.1285      0.043     -2.973      0.003      -0.213      -0.044
+z_log_doctor_aligned                                                          0.1958      0.115      1.709      0.088      -0.029       0.420
+C(a_stem, Treatment(reference="NON STEM"))[T.STEM]:z_log_doctor_aligned      -0.1908      0.089     -2.140      0.032      -0.366      -0.016
+z_prof_share                                                                 -0.0910      0.047     -1.928      0.054      -0.183       0.001
+z_cert_share                                                                  0.0709      0.020      3.522      0.000       0.031       0.110
+alpha                                                                         0.7799      0.056     14.025      0.000       0.671       0.889
+=============================================================================================================================================
