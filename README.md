@@ -4,7 +4,7 @@ Manuscript: Beyond Random Cross-Validation: Evaluating Cross-Regional Generaliza
 Package assembled: 3 October 2026
 
 ## Contents and execution
-- original/pt_education_research_project/: original input data, notebooks 00–06, executed notebooks where available, and stored outputs. Follow that project's README and requirements to run the original workflow in numerical order.
+- original/: original input data, notebooks 00–06, executed notebooks where available, and stored outputs. Follow that project's README and requirements to run the original workflow in numerical order.
 - revision/Knowbase_Repeated_GroupCV/: 20 repeated province-disjoint five-fold evaluations. Follow its README and run run_repeated_groupcv.py.
 - revision/Knowbase_Duan_Smearing/: correction sensitivity on the original random and grouped splits. Follow its README and run run_smearing.py.
 - MANIFEST_SHA256.csv: paths, sizes, and SHA-256 checksums for included files.
