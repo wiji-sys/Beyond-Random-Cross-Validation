@@ -18,4 +18,4 @@ The original results are preserved as the original analysis record. Statements t
 Smearing uses fitted training residuals only. It was evaluated on the original random and grouped folds, not across the 20 additional allocations. Revision packages record their runtime versions and original-partition numerical replication checks. The original notebook workflow has not been rerun end-to-end in preparing this combined archive.
 
 ## Publication status
-This is a prepared local archive, not a published repository release. No public repository URL or DOI has been assigned here. Before resubmission, deposit the author-approved package in a repository, check access from a signed-out session, and insert that real URL/DOI in the manuscript and response letter. Third-party source data retain their original terms; this package does not assign a new license to them.
+This public repository provides the reproducibility materials for Manuscript 11630. Original and revision analyses are stored separately. Repository availability does not imply that the complete workflow has been independently rerun.
